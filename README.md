@@ -55,10 +55,9 @@ The project contains the following major tables:
 
 The database relationships are represented using an Entity Relationship Diagram.
 
-![Healthcare ER Diagram](healthcare%20ER.png)
+healthacre ER.png
 
 ---
-
 ## 🧠 SQL Concepts Used
 
 ### Basic SQL
