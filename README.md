@@ -189,7 +189,6 @@ Through this project, I gained practical experience in:
 MSc Bioinformatics & Data Science
 
 ---
-
 ## ⭐ Project Highlights
 
-This project combines **SQL database management + healthcare data analysis + Excel dashboard visualization** to demonstrate practical data analytics and database skills.
+This project combines **SQL database management + healthcare data analysis to demonstrate practical data analytics and database skills.
