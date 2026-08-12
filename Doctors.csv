@@ -1,0 +1,31 @@
+"doctor_id";"first_name";"last_name";"gender";"specialization";"phone";"email";"experience_years";"salary";"department_id"
+1;"John";"Smith";"Male";"Cardiologist";"9876500001";"john.smith@hospital.com";15;180000.0;1
+2;"Emily";"Johnson";"Female";"Neurologist";"9876500002";"emily.johnson@hospital.com";12;175000.0;2
+3;"Michael";"Brown";"Male";"Orthopedic Surgeon";"9876500003";"michael.brown@hospital.com";10;160000.0;3
+4;"Sarah";"Davis";"Female";"Pediatrician";"9876500004";"sarah.davis@hospital.com";8;145000.0;4
+5;"David";"Wilson";"Male";"Oncologist";"9876500005";"david.wilson@hospital.com";16;190000.0;5
+6;"Sophia";"Miller";"Female";"Dermatologist";"9876500006";"sophia.miller@hospital.com";9;150000.0;6
+7;"Daniel";"Moore";"Male";"ENT Specialist";"9876500007";"daniel.moore@hospital.com";11;158000.0;7
+8;"Olivia";"Taylor";"Female";"Gynecologist";"9876500008";"olivia.taylor@hospital.com";13;172000.0;8
+9;"James";"Anderson";"Male";"General Physician";"9876500009";"james.anderson@hospital.com";18;168000.0;9
+10;"Emma";"Thomas";"Female";"Emergency Physician";"9876500010";"emma.thomas@hospital.com";14;176000.0;10
+11;"Liam";"Martin";"Male";"Cardiologist";"9876500011";"liam.martin@hospital.com";7;148000.0;1
+12;"Ava";"White";"Female";"Neurologist";"9876500012";"ava.white@hospital.com";6;142000.0;2
+13;"Noah";"Harris";"Male";"Orthopedic Surgeon";"9876500013";"noah.harris@hospital.com";20;210000.0;3
+14;"Mia";"Clark";"Female";"Pediatrician";"9876500014";"mia.clark@hospital.com";5;135000.0;4
+15;"William";"Lewis";"Male";"Oncologist";"9876500015";"william.lewis@hospital.com";17;205000.0;5
+16;"Charlotte";"Walker";"Female";"Dermatologist";"9876500016";"charlotte.walker@hospital.com";10;155000.0;6
+17;"Benjamin";"Hall";"Male";"ENT Specialist";"9876500017";"benjamin.hall@hospital.com";9;149000.0;7
+18;"Amelia";"Allen";"Female";"Gynecologist";"9876500018";"amelia.allen@hospital.com";15;182000.0;8
+19;"Lucas";"Young";"Male";"General Physician";"9876500019";"lucas.young@hospital.com";11;162000.0;9
+20;"Harper";"King";"Female";"Emergency Physician";"9876500020";"harper.king@hospital.com";8;146000.0;10
+21;"Henry";"Scott";"Male";"Cardiologist";"9876500021";"henry.scott@hospital.com";19;208000.0;1
+22;"Evelyn";"Green";"Female";"Neurologist";"9876500022";"evelyn.green@hospital.com";14;178000.0;2
+23;"Alexander";"Baker";"Male";"Orthopedic Surgeon";"9876500023";"alex.baker@hospital.com";12;170000.0;3
+24;"Ella";"Adams";"Female";"Pediatrician";"9876500024";"ella.adams@hospital.com";9;150000.0;4
+25;"Matthew";"Nelson";"Male";"Oncologist";"9876500025";"matthew.nelson@hospital.com";13;185000.0;5
+26;"Abigail";"Carter";"Female";"Dermatologist";"9876500026";"abigail.carter@hospital.com";11;160000.0;6
+27;"Joseph";"Mitchell";"Male";"ENT Specialist";"9876500027";"joseph.mitchell@hospital.com";7;145000.0;7
+28;"Grace";"Perez";"Female";"Gynecologist";"9876500028";"grace.perez@hospital.com";16;188000.0;8
+29;"Samuel";"Roberts";"Male";"General Physician";"9876500029";"samuel.roberts@hospital.com";10;158000.0;9
+30;"Chloe";"Turner";"Female";"Emergency Physician";"9876500030";"chloe.turner@hospital.com";6;140000.0;10
